@@ -28,6 +28,7 @@ This code is part of the Microsoft Learn module of the AKS workshop. It provides
 | `static`          | Data and images.                           |
 | `.gitignore`      | Define what to ignore at commit time.      |
 | `.dockerignore`   | Define what to ignore at build time.       |
+| `Dockerfile`      | Define how the Docker image is built.      |
 | `README.md`       | This README file.                          |
 | `LICENSE`         | The license for the sample.                |
 
