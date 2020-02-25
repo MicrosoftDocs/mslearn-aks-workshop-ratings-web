@@ -4,8 +4,8 @@ languages:
 - nodejs
 products:
 - nodejs
-description: "Add 150 character max description"
-urlFragment: "update-this-to-unique-url-stub"
+description: "This code is part of the Microsoft Learn module of the AKS workshop. It provides the frontend for the ratings application."
+urlFragment: "aksworkshop-ratings-web"
 ---
 
 # AKS Workshop - ratings-web sample code
