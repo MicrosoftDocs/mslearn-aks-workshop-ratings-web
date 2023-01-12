@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Azure Kubernetes Service (AKS) workshop
+        Azure Redhat Openshift (ARO) workshop
       </div>
       <div class="col-lg-6">
       </div>
